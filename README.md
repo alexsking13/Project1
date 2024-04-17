@@ -19,5 +19,7 @@ https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States
 
 https://hvplot.holoviz.org/user_guide/Customization.html
 
+https://developers.google.com/public-data/docs/canonical/states_csv
+
 
 
