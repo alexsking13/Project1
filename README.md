@@ -3,7 +3,7 @@
 
 By: Alex King, Steven Vo, Diego Lopez-herrera
 
-Our analysis focused on analyzing the change in State minimum wage from 1968 to 2020, as well as how Federal Minimum wage may have impacted state policy during this time period. In order to focus on this trend, we wanted to posit 3 specific questions:
+Our analysis focused on analyzing the change in State minimum wage from 1968 to 2020, as well as how Federal Minimum wage may have impacted state policy during this time period. This is something that we had thoguht to look into due to minimum wage rising and being in the news, especially with California raising their minimum wage to $20. In order to focus on this trend, we wanted to posit 3 specific questions:
 
 What is the trend of state minimum wage growth? How does it compare in recent years against the federal minimum wage?
 How has the average Federal minimum wage affected the state's minimum wage over the years accounting for inflation??
